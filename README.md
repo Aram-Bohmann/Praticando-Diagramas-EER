@@ -15,6 +15,9 @@ Este repositório armazena três diagramas EER realizados para treino de modelag
 - Distribuidora (Diagrama de uma Distribuidora):
 <img width="1278" height="854" alt="image" src="https://github.com/user-attachments/assets/2d471199-278e-42ed-911a-fedfb565b536" />
 
+- ClinicaVeterinaria (Diagrama de uma Clínica Veterinária):
+<img width="1129" height="819" alt="image" src="https://github.com/user-attachments/assets/34028386-2a88-403c-b1ed-a33af6de6b90" />
+
 
 ## 🛠️ Construído com
 

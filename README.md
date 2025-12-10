@@ -1,6 +1,8 @@
 # Praticando-Diagramas-EER
 ### Descrição
-Este repositório armazena três diagramas EER realizados para treino de modelagem de dados. Sendo dois realizados no MySQL e outro no Oracle Data Modeler.
+Este repositório contém diagramas EER (Enhanced Entity-Relationship) criados para treinamento em modelagem de dados.
+
+Os diagramas foram desenvolvidos utilizando MySQL e Oracle Data Modeler, abrangendo diferentes contextos, como organizações de projetos, hospitais, distribuidores e clínicas veterinárias.
 
 ## 👀 Visualização
 - DbProjetos_Aram (Diagrama de uma Organização de Projetos):

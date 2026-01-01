@@ -328,7 +328,7 @@ Sistema completo de gestão de clínica veterinária com controle de pets, tutor
 - [ ] **Triggers** - Automatização de regras de negócio
 - [ ] **Documentação detalhada** - Descrição de cada tabela e coluna
 
-### Novos Diagramas em Desenvolvimento
+### Novos Diagramas possíveis
 
 - [ ] Sistema de E-commerce
 - [ ] Gestão de Biblioteca
